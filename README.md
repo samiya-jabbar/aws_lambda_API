@@ -4,7 +4,7 @@
 
 This will perform basic 4 mathematical operations i.e add, subtract, multiply and divide
 
-Guide :
+### Guide :
 It works on following endpoints:
 
 1) /add/2/2
